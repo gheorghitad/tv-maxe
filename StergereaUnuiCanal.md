@@ -1,0 +1,3 @@
+Puteţi elimina canalele nedorite din lista cu canale. Pentru aceasta, faceţi click-dreapta pe canalul pe care doriţi să îl eliminaţi şi selectaţi opţiunea Ştergere canal. Eliminarea unui canal nu este reversibilă - va fi nevoie să eliminaţi URL-ul programului din blacklist, editând fişierul de configurare al TV-MAXE, localizat la ~/.tvmaxe.
+
+La fel ca în cazul adăugarii de programe, ştergerea unuia se aplică doar local, modificarea nefiind vizibilă şi celorlalţi utilizatori ai TV-MAXE.
